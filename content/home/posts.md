@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 45
 
-title: Recent Posts
+title: 過去のイベント
 subtitle:
 
 content:

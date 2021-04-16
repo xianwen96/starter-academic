@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: 過去のイベント
 cms_exclude: true
 
 # View.

@@ -6,15 +6,15 @@ widget: blank
 widget_id: demo
 headless: true
 weight: 15
-title: Academic Template
+title: 
 subtitle: ""
 active: true
 design:
   columns: "1"
   background:
-    gradient_start: "#004f64"
-    gradient_end: "#22758b"
-    text_color_light: true
+    gradient_start:
+    gradient_end:
+    text_color_light: false
   spacing:
     padding:
       - 20px
@@ -22,7 +22,7 @@ design:
       - 20px
       - "0"
 ---
-## 👋 Welcome to the Academic Template
+##### 👋 Welcome to the Academic Template
 
 The Wowchemy **Academic Resumé Template** for Hugo empowers you to create your job-winning online resumé and showcase your academic publications.
 
