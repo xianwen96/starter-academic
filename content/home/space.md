@@ -6,15 +6,14 @@ widget: blank
 widget_id: join
 headless: true
 weight: 25
-title:
+title: null
 subtitle: ""
 active: true
 design:
   background:
     image: photo0000-3523-1.jpg
-    image_darken:
-    color:
-    # Text color (true=light, false=dark, or remove for the dynamic theme color).
+    image_darken: null
+    color: null
     text_color_light: true
   columns: "1"
   spacing:
@@ -27,5 +26,6 @@ design:
 <br />
 <br />
 <h2 align=center>ありがとうございます!<h2 />
+
 <br />
 <br />
