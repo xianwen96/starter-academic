@@ -10,7 +10,7 @@ headless: true
 weight: 45
 
 title: 過去のイベント
-subtitle:
+subtitle: subtitle
 
 content:
   # Page type to display. E.g. post, talk, publication...

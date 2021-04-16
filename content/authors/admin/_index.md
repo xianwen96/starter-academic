@@ -3,15 +3,12 @@ title: T Lab
 role: Digital Economy
 
 social:
-  - icon: envelope
+  - icon: link
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
+    link: https://takagilab.wordpress.com
+  - icon: ticket-alt
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://peatix.com
 
 organizations:
   - name: 研究室ホームページ
@@ -21,12 +18,11 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-![](cropped-logo2-1.png)
+[![](cropped-logo2-1.png)](https://takagilab.wordpress.com)
 
 研究室紹介
 
-研究室紹介
-
-研究室紹介
+<br />
+<br />
 
 研究室紹介

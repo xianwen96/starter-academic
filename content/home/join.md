@@ -11,6 +11,8 @@ subtitle: ""
 active: true
 design:
   background:
+    image: photo0000-3523.jpg
+    image_darken:
     color:
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: false
@@ -22,4 +24,11 @@ design:
       - 20px
       - "0"
 ---
-## Move to Peatix
+<a href="https://peatix.com">
+<div align=center>
+<img src="ticket.png" />
+<div />
+<a />
+<br />
+
+### 参加登録はpeatixから...

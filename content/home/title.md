@@ -11,10 +11,11 @@ subtitle: ""
 active: true
 design:
   background:
-    image: cropped-logo2-1.png
-    image_size: contain
+    image: photo0000-3523-1.jpg
+    image_darken:
+    image_size: cover
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
-    text_color_light: false
+    text_color_light: true
   columns: "1"
   spacing:
     padding:
@@ -25,9 +26,11 @@ design:
 ---
 <br />
 <br />
-![](peatixカバー画像.png)
-<br />
-<br />
+<div align=center>
+<a href="">
+<img src="peatixカバー画像.png" />
+<a />
+<div />
 <br />
 <br />
 <br />

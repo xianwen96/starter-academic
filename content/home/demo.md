@@ -6,15 +6,17 @@ widget: blank
 widget_id: demo
 headless: true
 weight: 15
-title: 
+title:
 subtitle: ""
 active: true
 design:
   columns: "1"
   background:
+    image: photo0000-3523-1.jpg
+    image_size: cover
     gradient_start:
     gradient_end:
-    text_color_light: false
+    text_color_light: true
   spacing:
     padding:
       - 20px
@@ -27,6 +29,10 @@ design:
 The Wowchemy **Academic Resumé Template** for Hugo empowers you to create your job-winning online resumé and showcase your academic publications.
 
 [Check out the latest demo](https://academic-demo.netlify.app) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
+
+<br />
+<br />
+<br />
 
 **[Wowchemy](https://wowchemy.com)** makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs.
 
@@ -43,6 +49,9 @@ To help us develop this template and software sustainably under the MIT license,
 
 ### [❤️ Click here to unlock rewards with sponsorship](https://wowchemy.com/plans/)
 
+<br />
+<br />
+
 ## You're looking at a Wowchemy *widget*
 
 {{% callout note %}}
@@ -56,3 +65,5 @@ Backgrounds can be applied to any section. Here, the *background* option is set 
 ## Get inspired
 
 [Check out the Markdown files](https://github.com/wowchemy/starter-academic/tree/master/exampleSite) which power the [Academic Demo](https://academic-demo.netlify.app), or [view the showcase](https://wowchemy.com/user-stories/).
+<br />
+<br />
