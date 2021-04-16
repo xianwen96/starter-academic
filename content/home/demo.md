@@ -22,7 +22,7 @@ design:
       - 20px
       - "0"
 ---
-![](peatixカバー画像.png)
+![](./assets/media/peatixカバー画像.png)
 
 ## 👋 Welcome to the Academic Template
 
