@@ -3,27 +3,38 @@ advanced:
   css_style: ""
   css_class: ""
 widget: blank
-widget_id: demo
+widget_id: top
 headless: true
-weight: 15
-title:
+weight: 5
+title: イベントタイトル
 subtitle: ""
 active: true
 design:
-  columns: "1"
   background:
     image: photo0000-3523-1.jpg
+    image_darken:
     image_size: cover
-    gradient_start:
-    gradient_end:
+    # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true
+  columns: "1"
   spacing:
     padding:
-      - 20px
+      - 30px
       - "0"
       - 20px
       - "0"
 ---
+<br />
+<br />
+<div align=center>
+<a href="">
+<img src="peatixカバー画像.png" />
+<a />
+<div />
+<br />
+<br />
+<br />
+
 ##### 👋 Welcome to the Academic Template
 
 The Wowchemy **Academic Resumé Template** for Hugo empowers you to create your job-winning online resumé and showcase your academic publications.
