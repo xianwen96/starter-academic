@@ -22,8 +22,7 @@ design:
       - 20px
       - "0"
 ---
-![](./assets/media/peatixカバー画像.png)
-
+![](./assets/media/peatixカバー画像.png)
 ## 👋 Welcome to the Academic Template
 
 The Wowchemy **Academic Resumé Template** for Hugo empowers you to create your job-winning online resumé and showcase your academic publications.
