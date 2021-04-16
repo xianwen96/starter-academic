@@ -6,7 +6,7 @@ widget: blank
 widget_id: demo
 headless: true
 weight: 10
-title: Academic Template
+title: ""
 subtitle: ""
 active: true
 design:
@@ -15,6 +15,7 @@ design:
     gradient_start: "#004f64"
     gradient_end: "#22758b"
     text_color_light: true
+    image: peatixカバー画像.png
   spacing:
     padding:
       - 20px
