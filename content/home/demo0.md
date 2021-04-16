@@ -16,6 +16,7 @@ design:
     gradient_end: "#22758b"
     text_color_light: true
     image: peatixカバー画像.png
+    image_size: contain
   spacing:
     padding:
       - 20px
