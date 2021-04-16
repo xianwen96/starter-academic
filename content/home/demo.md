@@ -26,6 +26,8 @@ design:
 
 ![](./assets/media/peatixカバー画像.png)
 
+![](./assets/media/cropped-logo2-1.png)
+
 The Wowchemy **Academic Resumé Template** for Hugo empowers you to create your job-winning online resumé and showcase your academic publications.
 
 [Check out the latest demo](https://academic-demo.netlify.app) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
